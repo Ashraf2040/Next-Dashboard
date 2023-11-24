@@ -1,0 +1,15 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--textsoft);
+    margin-top: 20px;
+}
+
+.logo{
+    font-weight: bold;
+}
+.text{
+    font-size: 12px;
+}
