@@ -1,0 +1,96 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/dashboard/users/users.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+.users_container__J4nxq{
+  background-color: var(--bgSoft);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.users_top__NFtJ6{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.users_addButton___KO85{
+  padding: 10px;
+  background-color: #5d57c9;
+  color: var(--text);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.users_table__PHv76{
+  width: 100%;
+}
+
+.users_table__PHv76 td{
+  padding: 10px;
+}
+
+.users_user__BTuTY{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.users_userImage__PBFgn{
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.users_buttons__rbdF1{
+  display: flex;
+  gap: 10px;
+}
+
+.users_button__PnSUI{
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: var(--text);
+  border: none;
+  cursor: pointer;
+}
+
+.users_view__L_WF8{
+  background-color: teal;
+}
+
+.users_delete__HD3In{
+  background-color: crimson;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/pagination/pagination.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************/
+.pagination_container__MlbTl{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.pagination_button__63zCc{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.pagination_button__63zCc:disabled{
+    cursor: not-allowed;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/search/search.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.search_container__jAxK9{
+   display: flex;
+   align-items: center;
+   padding: 10px;
+   background-color: #2e374a; 
+   border-radius: 10px;
+   width: max-content;
+}
+.search_input__vdsRR{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: var(--text);
+}

@@ -1,0 +1,162 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/card/card.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.card_container__iVqz_{
+   display: flex;
+   gap: 20px;
+   background-color: var(--bgsoft);
+   border-radius: 10px;
+   padding: 20px;
+    cursor: pointer;
+}
+.card_container__iVqz_:hover{
+    background-color: #2e364a;
+}
+.card_text__1XH3e{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.card_title__tU8DU{
+
+}
+.card_number__4sjYn{
+font-size: 24px;
+font-weight: 500;
+}
+.card_details__LAFZD{
+font-size: 14px;
+font-weight: 300;
+}
+.card_positive__cCgwz{
+    color: lime;
+  
+}
+.card_negative__KLipm{
+    color: red;
+  
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/charts/chart.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.chart_container__V5ToI{
+    height: 450px;
+    background-color: var(--bgsoft);
+    padding: 20px;
+    border-radius: 10px;
+}
+.chart_title__VTmRS{
+    margin-bottom: 20px;
+    font-weight: 20;
+    color: var(--textsoft);
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/rightbar/rightbar.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************/
+.rightbar_container__euYye {
+  /* position: fixed; */
+ 
+}
+
+.rightbar_item__bPc4s {
+  background: linear-gradient(to top, #182237, #253352);
+  padding: 20px 24px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  position: relative;
+  
+}
+
+.rightbar_bgContainer__MxM1_ {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  height: 50%;
+}
+
+.rightbar_bg__BduY0 {
+  object-fit: contain;
+  opacity: 0.2;
+}
+
+.rightbar_text__j4iyq {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.rightbar_notification__qWTG_ {
+  font-weight: bold;
+}
+
+.rightbar_subtitle__ga7H6 {
+  color: var(--textSoft);
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.rightbar_desc__1xAFs {
+  color: var(--textSoft);
+  font-size: 14px;
+}
+
+.rightbar_button__zi_a2 {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: max-content;
+  background-color: #5d57c9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/transaction/transaction.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************/
+.transaction_container__r55rG{
+    background-color: var(--bgsoft);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.transaction_title__AJ1_T{
+    font-weight: 200;
+    color: var(--textsoft);
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.transaction_table__N2o8A{
+    width: 100%;
+}
+.transaction_user__KzRmd{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.transaction_userImage__lT2iN{
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.transaction_status__8fyjc{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    color: white;
+}
+
+.transaction_pending__6zXhp{
+    background-color: #f7cb7375;
+}
+.transaction_done__ospwj{
+    background-color: #afd6ee75;
+}
+.transaction_cancelled__75FTb{
+    background-color: #f7737375;
+}
+

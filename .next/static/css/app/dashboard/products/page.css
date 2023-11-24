@@ -1,0 +1,95 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/dashboard/products/products.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.products_container__t13AJ{
+    background-color: var(--bgsoft);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.products_top__huIMj{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.products_addButton__KllhN{
+    padding: 10px;
+    background-color: #5d57c9;
+    cursor: pointer;
+    border-radius: 5px;
+    color: var(--text);
+    border:none;
+
+}
+.products_table__LFrRy{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.products_product__jCclC{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.products_productImage__CQAb4{
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+.products_table__LFrRy td{
+    padding: 10px;
+}
+.products_button__U58s0{
+
+}
+.products_buttons__IzcRN{
+    display: flex;
+    gap: 10px;
+}
+.products_button__U58s0{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: var(--text);
+}
+.products_view__C2r3s{
+    background-color: teal;
+}
+.products_delete__9WRj_{
+    background-color: crimson;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/pagination/pagination.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************/
+.pagination_container__MlbTl{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.pagination_button__63zCc{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.pagination_button__63zCc:disabled{
+    cursor: not-allowed;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/search/search.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.search_container__jAxK9{
+   display: flex;
+   align-items: center;
+   padding: 10px;
+   background-color: #2e374a; 
+   border-radius: 10px;
+   width: max-content;
+}
+.search_input__vdsRR{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: var(--text);
+}
